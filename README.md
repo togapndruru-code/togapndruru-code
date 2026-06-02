@@ -13,7 +13,7 @@ Currently, I am expanding my skills in:
 - Business Intelligence
 - Web Development
 - Product Management
-- 
+  
 ## Professional Experience
 
 ### Sales Executive
